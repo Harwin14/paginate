@@ -106,7 +106,7 @@ const UserList = () => {
                     </nav>
                 </div> 
             </div>
-        </div> 
+        </div>  
     );
 };
  
